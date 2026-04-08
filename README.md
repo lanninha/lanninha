@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img align="left" height="240" src="https://i.imgflip.com/65efzo.gif" />
+  <img align="left" height="260" src="https://i.imgflip.com/65efzo.gif" />
   <td align="justify">Sou Halanna Lima (Recife–PE), curso Licenciatura em Computação na UFRPE. Tenho grande interesse pela área de tecnologia, com foco em desenvolvimento utilizando Python, minha linguagem principal, além de uma forte curiosidade em explorar diferentes áreas dentro da computação. Atualmente, venho me dedicando a projetos práticos que envolvem desenvolvimento de aplicações, lógica de programação e integração de conceitos fundamentais da área, sempre buscando aprimorar minha capacidade de construir soluções eficientes, organizadas e alinhadas às boas práticas de software.
 Além disso, tenho grande interesse na área de dados, especialmente em análise de dados e no uso de ferramentas que auxiliam na extração de insights a partir de informações. 
 Meu objetivo é crescer como profissional na área de tecnologia, consolidando uma base sólida tanto em desenvolvimento quanto em dados, e contribuir com projetos que gerem impacto real e inovação.
