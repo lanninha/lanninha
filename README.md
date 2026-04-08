@@ -61,3 +61,9 @@ Meu objetivo é crescer como profissional na área de tecnologia, consolidando u
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Halanna Lima/Halanna Lima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Halanna Lima/Halanna Lima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Halanna Lima/Halanna Lima/output/pacman-contribution-graph.svg">
+</picture>
