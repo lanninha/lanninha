@@ -1,7 +1,3 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=1f6feb" />
-</div>
-
 <h1 align="left">👩🏽‍💻Halanna Lima</h1>
 
 <div align="left">
@@ -71,6 +67,3 @@ Meu objetivo é crescer como profissional na área de tecnologia, consolidando u
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lanninha/lanninha/output/pacman-contribution-graph.svg">
 </picture>
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=1f6feb" />
-</div>
